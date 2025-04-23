@@ -1,0 +1,20 @@
+Various Terraform Commands
+Terraform init
+Terraform plan
+Terraform plan -out= abc
+Terraform apply 
+Terraform apply –auto-approve
+Terraform output "vpcidpr"
+Terraform graph
+Terraform taint
+Terraform untaint
+Terraform validate
+Terraform refresh
+Terraform state
+Terraform fmt
+terraform workspace list
+terraform workspace select
+terraform workspace delete
+terraform workspace new
+terraform workspace show
+terraform upgrade
